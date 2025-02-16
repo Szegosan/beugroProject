@@ -3,7 +3,7 @@ Beugró projectem
 Az 1. Feladatot elkészítettem a "Premium Customers" oldalon:
 - A kért adatok feltűntetésével
 - Egy kis extrát építettem a beépíthető komponens könyvtár segítségével
-(Ha a lenyíló gombra kattintunk, az ablakban fel van(nak) tűntetve az említett eszközök hostname-je(i) és IP címe(i))
+(Ha a lenyíló gombra kattintunk, az ablakban fel van(nak) tűntetve az említett eszköz(ök) hostname-je(i) és IP címe(i))
 
 A 2. Feladatot elkészítettem a "Tools" oldalon:
 - A meglévő eszközöket egy táblázatba rendeztem
