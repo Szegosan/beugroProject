@@ -12,4 +12,4 @@ A 2. Feladatot elkészítettem a "Tools" oldalon:
 
 A 3. Feladatot elkészítettem a "Service Class" oldalon:
 - A meglévő eszközöket egy táblázatba rendeztem
-- Létrehoztam egy Szerkesztőgombot minden eszközhöz amivel egy popup ablak használatával a feladatban elvárt szolgáltatási osztályokat lehet megváltoztatni.
+- Létrehoztam egy Szerkesztőgombot minden eszközhöz amivel egy popup ablak használatával a feladatban elvárt szolgáltatási osztályokat lehet megváltoztatni, validáció beleépítve.
