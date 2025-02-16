@@ -1,7 +1,7 @@
 Beugró projectem
 
 Az 1. Feladatot elkészítettem a "Premium Customers" oldalon:
-- A kért adatok feltűntetésével
+- A kért adatok feltűntettem egy oszlopban a cégeket külön komponensként használva elkülönítve egymástól.
 - Egy kis extrát építettem a beépíthető komponens könyvtár segítségével
 (Ha a lenyíló gombra kattintunk, az ablakban fel van(nak) tűntetve az említett eszköz(ök) hostname-je(i) és IP címe(i))
 
